@@ -1,5 +1,6 @@
 # YouTube Annoyances uBlock list
 # Author: Ben Stokman <ben.stokman@protonmail.com>
-# Last updated 2022 01 27
+# Last updated 2022 02 12
 
 ##.ytp-pause-overlay
+##.ytd-mealbar-promo-renderer
