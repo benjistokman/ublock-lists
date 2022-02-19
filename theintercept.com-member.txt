@@ -1,13 +1,13 @@
 # The Intercept Member Annoyances uBlock list
 # Author: Ben Stokman <ben.stokman@protonmail.com>
-# Last updated 2022 01 27
+# Last updated 2022 02 18
 
-theintercept.com##.Homepage-HomepageAdList-HomepageAdListMember-newsletter
 theintercept.com##.elements-NavigationBarButton-primary.elements-NavigationBarButton-button
-theintercept.com##.NavigationMenu-NavigationMenuListItems-purple-flag-button.NavigationMenu-NavigationMenuListItems-menuButton
+theintercept.com##.Homepage-HomepageAdList-container
 theintercept.com##.Post-social-link-block.Post-social-link-block--donate-desktop
-theintercept.com###template-container
-theintercept.com##.third-party--viewport-takeover
-theintercept.com##.template-container > iframe
-theintercept.com##.Header-menu-list-item-button
-theintercept.com##.loaded.no-height.tp-container-inner
+
+# Copied from AdGuard Annoyances
+theintercept.com/api/tinypass.min.js
+theintercept.com##.NewsletterEmbed-container
+theintercept.com##.InlineDonationPromo-container
+theintercept.com##.Newsletter
